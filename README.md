@@ -10,14 +10,13 @@ Aqui você encontrará projetos, estudos e pesquisas que unem **dados, criativid
 ## 🚀 Sobre mim
 - 🔎 Interesse em **futebol, mercado e estatísticas**, inspirado no conceito de *Moneyball*  
 - 📈 Experiência em **análise de dados e marketing de influência**  
-- 🛠️ Já fiz coisas com **PythonLooker Studio, Excel**  
-- ✍️ Compartilho conteúdos no [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mariopennagouveafilho)).
+- 🛠️ Já fiz coisas com **Python, Looker Studio, Excel**  
+- ✍️ Compartilho conteúdos no [LinkedIn]([(https://www.linkedin.com/in/mariopennagouveafilho)).
 
 ---
 ## 📬 Contato
 Se quiser trocar ideias sobre futebol, dados ou marketing de influência:  
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-- 📧 [Email](mailto:seuemail@dominio.com)  
+- 📧 [Email](mailto:mariogouvea@outlook.com)  
 - 📰 [Newsletter](https://substack.com/@seuperfil)
 
 ---
