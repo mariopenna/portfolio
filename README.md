@@ -11,6 +11,6 @@ Aqui você encontrará projetos, estudos e pesquisas que unem **dados, criativid
 - 🔎 Interesse em **futebol, mercado e estatísticas**, inspirado no conceito de *Moneyball*  
 - 📈 Experiência em **análise de dados e marketing de influência**  
 - 🛠️ Já fiz coisas com **Python, Looker Studio, Excel**  
-- ✍️ Compartilho conteúdos no [LinkedIn]((https://www.linkedin.com/in/mariopennagouveafilho)).
+- ✍️ Compartilho conteúdos no [LinkedIn](https://www.linkedin.com/in/mariopennagouveafilho).
 
 ⭐ Se gostou, não esqueça de deixar uma **estrela nos repositórios** para apoiar meu trabalho!  
