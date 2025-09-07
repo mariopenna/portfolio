@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Mário
+# 👋 Olá, eu sou o Mário
 
 🎯 Analista de Dados | 📊 Marketing de Influência | ⚽ Futebol
 
