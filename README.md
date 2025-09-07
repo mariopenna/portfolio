@@ -13,11 +13,4 @@ Aqui você encontrará projetos, estudos e pesquisas que unem **dados, criativid
 - 🛠️ Já fiz coisas com **Python, Looker Studio, Excel**  
 - ✍️ Compartilho conteúdos no [LinkedIn]([(https://www.linkedin.com/in/mariopennagouveafilho)).
 
----
-## 📬 Contato
-Se quiser trocar ideias sobre futebol, dados ou marketing de influência:  
-- 📧 [Email](mailto:mariogouvea@outlook.com)  
-- 📰 [Newsletter](https://substack.com/@seuperfil)
-
----
 ⭐ Se gostou, não esqueça de deixar uma **estrela nos repositórios** para apoiar meu trabalho!  
